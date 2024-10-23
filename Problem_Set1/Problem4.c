@@ -1,6 +1,7 @@
 /*
     Tutorial: How to Write a C Program to Add Two Integers
-    In this tutorial, we will create a simple C program that takes two integers as input from the user, adds them together, and prints the result. This program will help us understand basic arithmetic operations and how to handle integer inputs in C.
+    In this tutorial, we will create a simple C program that takes two integers as input from the user, 
+    adds them together, and prints the result. This program will help us understand basic arithmetic operations and how to handle integer inputs in C.
     
     Problem Statement:
     Write a C program that reads two integers from the user, adds them together, and displays the result.
