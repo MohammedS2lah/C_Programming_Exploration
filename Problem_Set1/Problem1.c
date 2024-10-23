@@ -1,6 +1,8 @@
 /*
     Tutorial: How to Write a Simple C Program to Print "Hello World!"
-    In this tutorial, we will walk through one of the most basic programs in C programming: printing "Hello World!" to the console. This is often the first step for anyone learning a new programming language, as it introduces you to the basic structure of a C program.
+    In this tutorial, we will walk through one of the most basic programs in C programming: printing 
+    "Hello World!" to the console. This is often the first step for anyone learning a new programming language, 
+    as it introduces you to the basic structure of a C program.
     
     Problem Statement:
     Write a C program that prints the message "Hello World!" to the console.
